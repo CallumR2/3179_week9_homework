@@ -78,7 +78,7 @@
               {
                 "field": "MurdersPer100k",
                 "type": "quantitative",
-                "title": "Murders"
+                "title": "Murders per 100k Population"
               }
             ]
           }
