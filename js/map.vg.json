@@ -97,8 +97,8 @@
         "type": "geoshape",
         "fill": "clear",
         "fillOpacity": 0,
-        "stroke": "grey",
-        "strokeOpacity": 0.5
+        "stroke": "black",
+        "strokeOpacity": 0.3
       }
     }
   ]
